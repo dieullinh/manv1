@@ -1,0 +1,3 @@
+# Minh An AI Agent - Production Dependencies
+# Pure Python Zero-Dependency Architecture (Installs in seconds, compatible with all cloud platforms)
+python-dotenv>=1.0.0
